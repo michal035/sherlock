@@ -371,6 +371,14 @@
     "username_claimed": "cute18cute",
     "username_unclaimed": "noonewouldeverusethis77777"
   },
+  "chomikuj": {
+    "errorType": "status_code",
+    "url": "https://chomikuj.pl/{}",
+    "urlMain": "https://chomikuj.pl",
+    "username_claimed": "lol",
+    "username_unclaimed": "noonewouldeverusethis77777"
+  },
+  
   "CloudflareCommunity": {
     "errorType": "status_code",
     "url": "https://community.cloudflare.com/u/{}",
